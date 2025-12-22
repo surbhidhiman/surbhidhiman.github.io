@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "bio goes here."
   links:
-    - label: "Email"
-      icon: "ffas fa-envelope"
-      url: "mailto:surbhidhiman@live.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -86,17 +83,18 @@ footer:
       url: "https://instagram.com/surbsdhiman"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  
   # _pages
   - scope:
       path: "_pages"
