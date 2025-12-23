@@ -1,0 +1,14 @@
+---
+layout: single
+author_profile: true
+---
+
+Computational scientist and AI research engineer with a background in astrophysics and applied mathematics.
+
+My work focuses on scientific machine learning, computational modeling, numerical methods, and optimization.
+
+### Focus Areas
+- Scientific and physics-informed machine learning
+- Computational modeling and simulation
+- Optimization and numerical methods
+- Applied mathematics for physical systems
