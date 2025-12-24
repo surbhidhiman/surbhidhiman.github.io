@@ -13,10 +13,10 @@ I have experience with academic research and applied industry work. My undergrad
 - Numerical methods and simulation-based modeling  
 - Scalable modeling approaches and ML-based acceleration of complex systems  
 
-### Trajectory
-*Short term:* Research Engineer / Applied Scientist work bridging modeling and production systems
 
-*Long term:* Technical leadership in scientific ML teams 
+#### Goals
+- Research Engineer / Applied Scientist work bridging modeling and production systems
+- Technical leadership in scientific ML teams 
 
 
 [Projects](/projects/) • [About](/about/) • [CV](/assets/files/cv.pdf) 
