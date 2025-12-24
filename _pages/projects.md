@@ -21,7 +21,7 @@ I designed forecasting and probabilistic risk modeling systems to predict the ev
 
 ---
 
-### Optimization for Invenory Replenishment 
+### Optimization for Inventory Replenishment 
 ###### *Industry Project*
 I built optimization models for inventory replenishment recommendations. This work required translating real-world constraints into formal objective functions, designing solution approaches that were computationally tractable, and integrating these models into production systems.
 
