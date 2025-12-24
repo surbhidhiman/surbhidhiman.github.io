@@ -8,22 +8,22 @@ author_profile: true
 ### Scientific Machine Learning for Physical Systems
 ###### *Graduate Project (In Progress)*
 
-Developing physically motivated computational models using ODE-based numerical solvers and physics-informed neural networks, with an emphasis on numerical stability, validation, and reproducible scientific workflows.
+I am developing computational models of physical systems that combine classical numerical solvers with machine-learning-based approaches. This work focuses on starting from physically motivated formulations, solving the resulting models numerically, and exploring how learning-based methods can complement traditional simulation techniques.
 
 **Methods**: numerical ODE solvers, PINNs, scientific ML, Python/Julia
 
-### Timeseries Forecasting and Probabilistic Modeling
+### Timeseries Forecasting and Probabilistic Risk Modeling
 ###### *Industry Project*
 
-Designed forecasting and probabilistic modeling systems to predict time-evolving metrics and quantify uncertainty, supported by end-to-end pipelines for data ingestion, validation, and interpretation.
+I designed forecasting and probabilistic modeling systems to predict the evolution of time-dependent metrics and to quantify uncertainty around those predictions. This work involved framing forecasting problems quantitatively, developing models that balance accuracy and interpretability, and building supporting pipelines for data ingestion, validation, and analysis.
 
 **Methods**: time-series modeling, probabilistic forecasting, Python, SQL
 
 
-### Optimization and Simulation for Decision-Making Systems
+### Optimization and Simulation for Invenory Replenishment Decision-Making
 ###### *Industry Project*
 
-Built optimization-based models for large-scale operational decision-making, balancing theoretical optimality with computational efficiency and robustness in production settings.
+I built optimization-based models for inventory replenishment recommendations. This work required translating real-world constraints into formal objective functions, designing solution approaches that were computationally tractable, and integrating these models into production systems.
 
 **Methods**: optimization, simulation, algorithmic modeling, Python
 
@@ -31,14 +31,16 @@ Built optimization-based models for large-scale operational decision-making, bal
 ### Computational Modeling in Astrophysics
 ###### *Academic & Undergraduate Research*
 
-Developed and analyzed computational models for astrophysical phenomena, including black hole microlensing and large-scale structure, translating physical theory into quantitative simulations.
+During my undergraduate studies, I developed computational models for astrophysical phenomena such as large-scale cosmic filaments at the Lawrence Berkeley National Lab.
 
-**Methods**: mathematical modeling, statistical analysis, scientific computing, Python
+This project provided early experience in connecting physical intuition, mathematical formulation, and computational implementation.
+
+**Methods**: mathematical modeling, statistical analysis, Python
 
 
 ### Open-Source Scientific Computing Contribution
 ###### *Community Contribution*
 
-Contributed to an open-source numerical simulation codebase in the Julia ecosystem, focusing on model implementation, testing, and numerically correct scientific software design.
+I contributed to an open-source numerical simulation codebase in the Julia ecosystem, focusing on model implementation, testing, and numerically correct scientific software design.
 
-**Methods**: scientific software development, numerical simulation, Julia
+**Methods**: scientific software, numerical simulation, Julia
