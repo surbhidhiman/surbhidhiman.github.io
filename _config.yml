@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Surbhi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computational Scientist | AI Research & Modeling"
+  bio    : "Computational Scientist & AI Researcher"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
