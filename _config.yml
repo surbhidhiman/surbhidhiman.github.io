@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Surbhi Dhiman
-description: Computational Scientist | AI Research & Modeling
+description: Computational Scientist & AI Researcher
 url: https://surbhidhiman.github.io
 email: 
 # twitter_username: username
