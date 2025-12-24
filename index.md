@@ -3,12 +3,14 @@ layout: single
 author_profile: true
 ---
 
-Computational scientist and AI research engineer with a background in astrophysics and applied mathematics.
+Computational scientist with training in astrophysics and applied mathematics, and professional experience building machine learning, optimization, and data-driven systems.
 
-My work focuses on scientific machine learning, computational modeling, numerical methods, and optimization.
+My work sits at the intersection of physical modeling, numerical methods, and machine learning, with an emphasis on translating physical intuition and mathematical formulations into robust computational implementations.
 
 ### Focus Areas
-- Scientific and physics-informed machine learning
-- Computational modeling and simulation
-- Optimization and numerical methods
-- Applied mathematics for physical systems
+- Scientific and machine-learning-based modeling of physical systems  
+- Numerical methods and simulation (ODE-based models, irregular geometries)  
+- ML-accelerated simulation and surrogate modeling  
+- Cross-domain generalization and representation learning for scientific data  
+
+[Projects](/projects/) • [About](/about/) • [CV](/assets/files/cv.pdf)
