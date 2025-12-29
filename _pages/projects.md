@@ -49,6 +49,6 @@ This project provided early experience in connecting physical intuition, mathema
 
 ### Open-Source Scientific Computing Contribution
 ###### *Community Contribution*
-I contributed to an open-source numerical simulation codebase in the Julia ecosystem, focusing on model implementation and testing.
+I contributed to an open-source numerical simulation codebase called Oceananigans in the Julia ecosystem. In this, I added to an example documentation for an inplementation of the lock-exchange problem. 
 
 **Methods**: scientific software, numerical simulation, Julia
