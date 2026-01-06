@@ -5,7 +5,7 @@ author_profile: true
 
 Hello! I am a scientist with a background in astrophysics and applied mathematics. I have professional experience building machine learning, and data-driven systems. My work ranges from AI to physical modeling, where I focus on building high-impact scientific machine learning systems with technical ownership.
 
-I have experience with academic research and applied industry work. My undergraduate research focused on computational astrophysics, while my professional experience honed in on AI and optimization work. Currently, my work as a data scientist contributes to the modernization of large-scale data and AI/ML systems. 
+I have experience with academic research and applied industry work. My academic research focuses on computational astrophysics, while my professional experience honed in on AI and optimization work. Currently, my work as a data scientist contributes to the modernization of large-scale data and AI/ML systems. 
  
 
 ### Focus Areas
