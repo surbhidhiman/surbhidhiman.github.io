@@ -37,18 +37,18 @@ As part of a voluntary Women in AI data science incubator program at my place of
 
 ---
 
-### Computational Modeling in Astrophysics
-###### *Academic & Undergraduate Research*
-During my undergraduate studies, I developed computational models for astrophysical phenomena such as large-scale cosmic filaments at the Lawrence Berkeley National Lab.
-
-This project provided early experience in connecting physical intuition, mathematical formulation, and computational implementation.
-
-**Methods**: mathematical modeling, statistical analysis, Python
-
----
-
 ### Open-Source Scientific Computing Contribution
 ###### *Community Contribution*
 I contributed to an open-source numerical simulation codebase called Oceananigans in the Julia ecosystem. In this, I added to an example documentation for an inplementation of the lock-exchange problem. 
 
 **Methods**: scientific software, numerical simulation, Julia
+
+---
+
+### Modeling in Astrophysics
+###### *Undergraduate Research*
+During my undergraduate studies, I studied the evolution of large-scale cosmic filaments at the Lawrence Berkeley National Lab.
+
+This project provided early experience in connecting physical intuition, mathematical formulation, and computational implementation.
+
+**Methods**: mathematical modeling, statistical analysis, Python
